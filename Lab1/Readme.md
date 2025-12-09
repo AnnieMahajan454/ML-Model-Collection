@@ -1,3 +1,5 @@
+# Examples and Excersice Screenshots
+
 Example 1
 ---
 <img width="635" height="546" alt="image" src="https://github.com/user-attachments/assets/96e1e54f-6455-4f31-96be-cfe6e94cd5c7" />
@@ -23,4 +25,9 @@ Example 6
 ---
 <img width="1193" height="571" alt="image" src="https://github.com/user-attachments/assets/dc2d46b6-0fe9-4ca8-87d5-5fa291a6a3ee" />
 <img width="943" height="329" alt="image" src="https://github.com/user-attachments/assets/4153aa64-7ccd-4f43-bbaf-ed4e91c7120e" />
+
+Exercise 1
+---
+<img width="1190" height="475" alt="image" src="https://github.com/user-attachments/assets/3e69d013-9137-4d7f-a283-45806708b516" />
+<img width="781" height="194" alt="image" src="https://github.com/user-attachments/assets/fdfc3bea-2750-45a7-9173-9317a2040a99" />
 
